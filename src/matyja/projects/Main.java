@@ -46,11 +46,16 @@ reversing.reconstruct(40342);
 /*P43FloatingSorter sorter = new P43FloatingSorter();
 sorter.floatingPointSorter();
  */
-
+//APP FOR CALCULATING TAX IN THE USA IN 1913. WORKING
+        /*
 P48IncomeTaxCalcUS incomecalc = new P48IncomeTaxCalcUS();
 incomecalc.taxCalc();
 
-
+         */
+// P4.14*** FULLY WORKING APPLICATION TELLING IF 2 DOUBLES DIFFER BY LESS THAN 0.01
+/*P414NumberComparer comparer = new P414NumberComparer();
+comparer.numberComparator();
+ */
 
     }
 }
